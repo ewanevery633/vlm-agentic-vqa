@@ -130,22 +130,22 @@ VLM-Agentic-VQA/
     **B) Command-Line Interface:**
     * You can run any evaluation directly from your terminal. All results will be printed and saved to `logs/evaluation.log`.
 
-    ```bash
-    # Run the baseline Zero-Shot evaluation
-    python scripts/evaluate_agents.py --mode zero_shot
-    
-    # Run the "Classic" OpenCV-enhanced agent
-    python scripts/evaluate_agents.py --mode classic
-    
-    # Run the "DL" Chain-of-Thought agent
-    python scripts/evaluate_agents.py --mode dl
-    
-    # Run all three evaluations sequentially
-    python scripts/evaluate_agents.py --mode all
-    
-    # Show a sample from the dataset
-    python scripts/evaluate_agents.py --mode show_sample --sample_index 5
-    ```
+        ```bash
+        # Run the baseline Zero-Shot evaluation
+        python scripts/evaluate_agents.py --mode zero_shot
+        
+        # Run the "Classic" OpenCV-enhanced agent
+        python scripts/evaluate_agents.py --mode classic
+        
+        # Run the "DL" Chain-of-Thought agent
+        python scripts/evaluate_agents.py --mode dl
+        
+        # Run all three evaluations sequentially
+        python scripts/evaluate_agents.py --mode all
+        
+        # Show a sample from the dataset
+        python scripts/evaluate_agents.py --mode show_sample --sample_index 5
+        ```
 
 ---
 
